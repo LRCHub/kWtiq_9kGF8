@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "PUNK PUNK!",
+  "base_artist": "DALU、Foux",
+  "createdAt": "2025-12-01T03:59:38.744368Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Judy Is a Punk (Punk Side)",
+      "artist": "Ramones",
+      "has_synced": true,
+      "path": "select/01_Judy_Is_a_Punk_(Punk_Side)_Ramones.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PUNK PUNK! (feat. LEX)",
+      "artist": "DALU & Foux",
+      "has_synced": false,
+      "path": "select/pl_01_PUNK_PUNK!_(feat._LEX)_DALU_&_Foux.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "PUNK PUNK! (feat. LEX)",
+      "artist": "DALU & Foux",
+      "has_synced": false,
+      "path": "select/pl_02_PUNK_PUNK!_(feat._LEX)_DALU_&_Foux.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "PUNK PUNK!",
+      "artist": "DALU & Foux",
+      "has_synced": false,
+      "path": "select/pl_03_PUNK_PUNK!_DALU_&_Foux.txt"
+    }
+  ]
+}
